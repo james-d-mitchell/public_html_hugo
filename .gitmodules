@@ -1,0 +1,8 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:james-d-mitchell/james-d-mitchell.github.io.git
+	branch = master
+[submodule "themes/archie"]
+	path = themes/archie
+	url = git@github.com:james-d-mitchell/archie.git
+	branch = master
