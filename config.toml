@@ -1,16 +1,21 @@
-baseURL = "james-d-mitchell.github.io"
+baseURL = "https://james-d-mitchell.github.io/"
 languageCode = "en-us"
 title = "J. D. Mitchell"
 theme="archie"
 copyright = "© J. D. Mitchell"
-pygmentsstyle = "monokai"
+pygmentsstyle = "monokailight"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
+enableGitInfo = true
+
 [params]
 	featherIconsCDN=true
 
 [markup.goldmark.renderer]
 unsafe= true
+
+[frontmatter]
+lastmod = [":fileModTime", ":git", ":default"]
 
 [[params.social]]
 name = "GitHub"
@@ -18,8 +23,8 @@ icon = "github"
 url = "https://github.com/james-d-mitchell"
 
 [[menu.main]]
-name = "About"
-url = "/about"
+name = "Home"
+url = "/"
 weight = 1
 
 [[menu.main]]
@@ -33,11 +38,6 @@ url = "/soft"
 weight = 3
 
 [[menu.main]]
-name = "Data"
-url = "/data"
-weight = 4
-
-[[menu.main]]
 name = "Posts"
 url = "/posts"
-weight = 5
+weight = 4
