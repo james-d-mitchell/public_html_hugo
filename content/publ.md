@@ -6,20 +6,30 @@ aliases = ["research"]
 author = "j. d. mitchell"
 +++
 
+<!-- Note: to increment the publication number change the number at
+themes/archie/static/css/main.css:235  -->
+<!-- Note: when viewing the pages locally with chrome, sometimes changes are
+slow to show up. -->
+
+
 [A list of publications by J. D.  Mitchell](http://www.ams.org/mathscinet/search/publications.html?pg1=INDI&s1=691066)
 on [MathSciNet](http://www.ams.org/mathscinet).
 
+1.  (with L. Elliott, Z. Mesyan, J. Jonušas, M. Morayne, and Y. H. Péresse)
+    ‘Automatic continuity, unique Polish topologies, and Zariski
+    topologies (part I, monoids)’, preprint; <https://arxiv.org/abs/1912.07029>
 1.  (with Z. Mesyan and Y. H. Péresse) 'Topological transformation
-    monoids', submitted; <https://arxiv.org/abs/1809.04590>
-1.  (with James Hyde, Julius Jonusas, Yann H. Péresse) 'Sets of
+    monoids', preprint; <https://arxiv.org/abs/1809.04590>
+1.  (with James Hyde, Julius Jonušas, Yann H. Péresse) 'Sets of
     universal sequences for the symmetric group and analogous
-    semigroups', submitted; <https://arxiv.org/abs/1803.01377>
+    semigroups', *Proc. Amer. Math. Soc.* **148** (2020), 1917-1931;
+    <https://doi.org/10.1090/proc/14881> <https://arxiv.org/abs/1803.01377>
 1.  (with J. East and M. Gadouleau) 'Structural aspects of semigroups
-    based on digraphs', to appear in *Algebraic Combinatorics*;
-    <https://arxiv.org/abs/1704.00937>
+    based on digraphs', *Algebraic Combinatorics* **2** (2019) 711-733;
+    <https://doi.org/10.5802/alco.56> <https://arxiv.org/abs/1704.00937>
 1.  (with Jillian D. McPhee and Martyn Quick) 'Automorphism groups of
     linearly ordered structures and endomorphisms of the ordered set
-    (ℚ,≤) of rational numbers', to appear in *Q. J. Math.*;
+    (ℚ,≤) of rational numbers', *Q. J. Math.* **70** (2019) 171–194;
     <https://doi.org/10.1093/qmath/hay043>
     <https://arxiv.org/abs/1607.03655>
 1.  (with Igor Dolinka, James East, Athanasios Evangelou, Desmond
@@ -45,7 +55,7 @@ on [MathSciNet](http://www.ams.org/mathscinet).
     **504** (2018) 176-216;
     <https://doi.org/10.1016/j.jalgebra.2018.01.048>
     <https://arxiv.org/abs/1706.04967>
-1. (with J. Jonusas and M. Pfeiffer) 'Two variants of the Froiduire-Pin
+1. (with J. Jonušas and M. Pfeiffer) 'Two variants of the Froiduire-Pin
     Algorithm for finite semigroups', *Portugal. Math.* **74** (2018)
     173-200; <http://dx.doi.org/10.4171/PM/2001>
     <https://arxiv.org/abs/1704.04084>
@@ -53,7 +63,7 @@ on [MathSciNet](http://www.ams.org/mathscinet).
     semigroups', *Semigroup Forum* **95** (2017) 109-125;
     <http://dx.doi.org/10.1007/s00233-017-9869-2>
     <https://arxiv.org/abs/1403.0274>
-1. (with J. Jonusas) 'Topological 2-generation of automorphism groups
+1. (with J. Jonušas) 'Topological 2-generation of automorphism groups
     of countable ultrahomogeneous graphs', *Forum Mathematicum*
     **29** (2017) 905-940; <http://dx.doi.org/10.1515/forum-2016-0056>
     <https://arxiv.org/abs/1602.05766>
@@ -238,4 +248,3 @@ on [MathSciNet](http://www.ams.org/mathscinet).
 1. (with C. M. Campbell and N. Ruskuc) 'On defining groups efficiently
     without inverses', *Math. Proc. Cambridge Philos. Soc.*
     **133** (2002) 31-36; <http://dx.doi.org/10.1017/S0305004102005959>
-</ol>
