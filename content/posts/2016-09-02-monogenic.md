@@ -233,7 +233,7 @@ can be seen in Table 2.
 \begin{array}{r|r|r|r|r|r|r|r|r|r|r|r|r|r|r|r|r|r|r|r}
 n & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 & 10 & 11 & 12 & 13 & 14 & 15 & 16 & 17 &
 18 & 19 \\\\\\hline
-\mathbf{t}(n) & 1& 2& 3& 4& 6& 6& 9& 11& 14& 16& 20& 23& 27& 31& 35& 43& 47& 55& 61
+\mathbf{t}(n) & 1 & 3 & 6 & 10 & 16 & 22 & 31 & 42 & 56 & 72 & 92 & 115 & 142 & 173 & 208 & 251 & 298 & 353 & 414
 \end{array}
 <center><b>Table 2.</b>
 Some small values of $\mathbf{t}(n)$ the number of monogenic
