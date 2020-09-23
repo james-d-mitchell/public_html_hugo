@@ -15,6 +15,8 @@ slow to show up. -->
 [A list of publications by J. D.  Mitchell](http://www.ams.org/mathscinet/search/publications.html?pg1=INDI&s1=691066)
 on [MathSciNet](http://www.ams.org/mathscinet).
 
+1.  (with J. East and J. Jonušas)  ‘Generating the monoid of 2×2 matrices over
+    max-plus and min-plus semirings‘, preprint; <https://arxiv.org/abs/2009.10372>
 1.  (with L. Elliott, Z. Mesyan, J. Jonušas, M. Morayne, and Y. H. Péresse)
     ‘Automatic continuity, unique Polish topologies, and Zariski
     topologies (part I, monoids)’, preprint; <https://arxiv.org/abs/1912.07029>
