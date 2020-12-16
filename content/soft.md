@@ -6,8 +6,8 @@ aliases = ["software"]
 author = "j. d. mitchell"
 +++
 
-- [Digraphs](https://gap-packages.github.io/Digraphs/) deposited GAP package, 2020.
-- [Semigroups](https://gap-packages.github.io/Semigroups/) deposited GAP
+- [Digraphs](https://digraphs.github.io/Digraphs/) deposited GAP package, 2020.
+- [Semigroups](https://semigroups.github.io/Semigroups/) deposited GAP
   package, 2020.
 - [SgpDec](https://gap-packages.github.io/sgpdec/) - Hierarchical composition
   and decomposition of finite permutation groups and transformation semigroups
