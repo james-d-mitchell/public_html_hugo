@@ -2,7 +2,7 @@
 title = "About"
 description = ""
 date = "2020-05-02"
-aliases = ["about", "contact"]
+alias = ["about"]
 author = "j. d. mitchell"
 +++
 

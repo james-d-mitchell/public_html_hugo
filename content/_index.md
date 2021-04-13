@@ -1,7 +1,7 @@
 +++
 title = "About"
 description = ""
-aliases = ["about", "contact"]
+alias = "about"
 author = "j. d. mitchell"
 +++
 
