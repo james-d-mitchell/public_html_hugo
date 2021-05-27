@@ -15,6 +15,8 @@ slow to show up. -->
 [A list of publications by J. D.  Mitchell](http://www.ams.org/mathscinet/search/publications.html?pg1=INDI&s1=691066)
 on [MathSciNet](http://www.ams.org/mathscinet).
 
+1.  (with M. Tsalakou)  ‘An explicit algorithm for normal forms in small
+    overlap monoids‘, preprint; <http://arxiv.org/abs/2105.12125>
 1.  (with F. Hivert, F. L. Smith, and W. A. Wilson) ‘Minimal generating sets
     for matrix monoids‘, preprint;  <https://arxiv.org/abs/2012.10323>
 1.  (with J. East and J. Jonušas)  ‘Generating the monoid of 2×2 matrices over
