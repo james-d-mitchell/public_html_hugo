@@ -14,6 +14,9 @@ slow to show up. -->
 [A list of publications by J. D.  Mitchell](http://www.ams.org/mathscinet/search/publications.html?pg1=INDI&s1=691066)
 on [MathSciNet](http://www.ams.org/mathscinet).
 
+1.  (with T. D. H. Coleman, F. L. Smith, and M. Tsalakou) 'The Todd-Coxeter
+    Algorithm for Semigroups and Monoids', preprint;
+    <http://arxiv.org/abs/2203.11148>
 1.  (with P. J. Cameron, J. East, D. FitzGerald, L.  Pebody, and T.
     Quinn-Gregson) 'Minimum degrees of finite rectangular bands, null
     semigroups, and variants of full transformation semigroups', preprint;
