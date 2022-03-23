@@ -14,12 +14,15 @@ slow to show up. -->
 [A list of publications by J. D.  Mitchell](http://www.ams.org/mathscinet/search/publications.html?pg1=INDI&s1=691066)
 on [MathSciNet](http://www.ams.org/mathscinet).
 
+1.  (with L. Elliott, J. Jonušas, Y. Péresse, M. Pinsker) 'Polish topologies on
+    endomorphism monoids of relational structures', submitted;
+    <https://arxiv.org/abs/2203.11577>
 1.  (with T. D. H. Coleman, F. L. Smith, and M. Tsalakou) 'The Todd-Coxeter
     Algorithm for Semigroups and Monoids', preprint;
     <http://arxiv.org/abs/2203.11148>
 1.  (with P. J. Cameron, J. East, D. FitzGerald, L.  Pebody, and T.
     Quinn-Gregson) 'Minimum degrees of finite rectangular bands, null
-    semigroups, and variants of full transformation semigroups', preprint;
+    semigroups, and variants of full transformation semigroups', submitted;
     <http://arxiv.org/abs/2110.09701>
 1.  (with M. Anagnostopoulou-Merkouri)  'Properties of congruence lattices of
     finite graph inverse semigroups', preprint; <https://arxiv.org/abs/2108.08277>
@@ -32,11 +35,11 @@ on [MathSciNet](http://www.ams.org/mathscinet).
 1.  (with M. Tsalakou)  'An explicit algorithm for normal forms in small
     overlap monoids', submitted; <http://arxiv.org/abs/2105.12125>
 1.  (with L. Elliott, Z. Mesyan, J. Jonušas, M. Morayne, and Y. H. Péresse)
-    'Automatic continuity, unique Polish topologies, and Zariski
-    topologies (part I, monoids)', submitted; <https://arxiv.org/abs/1912.07029>
+    'Automatic continuity, unique Polish topologies, and Zariski topologies on
+    monoids and clones', submitted; <https://arxiv.org/abs/1912.07029>
 1.  (with J. East) 'Generating wreath products of symmetric and alternating
-    groups', to appear in *New Zealand Journal of Mathematics*;
-    <https://arxiv.org/abs/2104.05378v1>
+    groups', *New Zealand Journal of Mathematics*, **51** (2021), 85–93;
+    <https://doi.org/10.53733/108> <https://arxiv.org/abs/2104.05378v1>
 1.  (with James Hyde, Julius Jonušas, Yann H. Péresse) 'Sets of
     universal sequences for the symmetric group and analogous
     semigroups', *Proc. Amer. Math. Soc.* **148** (2020), 1917-1931;
