@@ -24,8 +24,9 @@ on [MathSciNet](http://www.ams.org/mathscinet).
     Quinn-Gregson) 'Minimum degrees of finite rectangular bands, null
     semigroups, and variants of full transformation semigroups', submitted;
     <http://arxiv.org/abs/2110.09701>
-1.  (with M. Anagnostopoulou-Merkouri)  'Properties of congruence lattices of
-    finite graph inverse semigroups', preprint; <https://arxiv.org/abs/2108.08277>
+1.  (with M. Anagnostopoulou-Merkouri and Z. Mesyan)  'Properties of Congruence
+    Lattices of Graph Inverse Semigroups', preprint;
+    <https://arxiv.org/abs/2108.08277>
 1.  (with J. East and J. Jonušas)  'Generating the monoid of 2×2 matrices over
     max-plus and min-plus semirings', preprint; <https://arxiv.org/abs/2009.10372>
 1.  (with Z. Mesyan and Y. H. Péresse) 'Topological transformation
