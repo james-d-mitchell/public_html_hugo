@@ -14,16 +14,9 @@ slow to show up. -->
 [A list of publications by J. D.  Mitchell](http://www.ams.org/mathscinet/search/publications.html?pg1=INDI&s1=691066)
 on [MathSciNet](http://www.ams.org/mathscinet).
 
-1.  (with L. Elliott, J. Jonušas, Y. Péresse, M. Pinsker) 'Polish topologies on
-    endomorphism monoids of relational structures', submitted;
-    <https://arxiv.org/abs/2203.11577>
 1.  (with T. D. H. Coleman, F. L. Smith, and M. Tsalakou) 'The Todd-Coxeter
     Algorithm for Semigroups and Monoids', preprint;
     <http://arxiv.org/abs/2203.11148>
-1.  (with P. J. Cameron, J. East, D. FitzGerald, L.  Pebody, and T.
-    Quinn-Gregson) 'Minimum degrees of finite rectangular bands, null
-    semigroups, and variants of full transformation semigroups', submitted;
-    <http://arxiv.org/abs/2110.09701>
 1.  (with M. Anagnostopoulou-Merkouri and Z. Mesyan)  'Properties of Congruence
     Lattices of Graph Inverse Semigroups', preprint;
     <https://arxiv.org/abs/2108.08277>
@@ -31,6 +24,13 @@ on [MathSciNet](http://www.ams.org/mathscinet).
     max-plus and min-plus semirings', preprint; <https://arxiv.org/abs/2009.10372>
 1.  (with Z. Mesyan and Y. H. Péresse) 'Topological transformation
     monoids', preprint; <https://arxiv.org/abs/1809.04590>
+1.  (with L. Elliott, J. Jonušas, Y. Péresse, M. Pinsker) 'Polish topologies on
+    endomorphism monoids of relational structures', submitted;
+    <https://arxiv.org/abs/2203.11577>
+1.  (with P. J. Cameron, J. East, D. FitzGerald, L.  Pebody, and T.
+    Quinn-Gregson) 'Minimum degrees of finite rectangular bands, null
+    semigroups, and variants of full transformation semigroups', submitted;
+    <http://arxiv.org/abs/2110.09701>
 1.  (with F. Hivert, F. L. Smith, and W. A. Wilson) 'Minimal generating sets
     for matrix monoids', submitted;  <https://arxiv.org/abs/2012.10323>
 1.  (with M. Tsalakou)  'An explicit algorithm for normal forms in small
