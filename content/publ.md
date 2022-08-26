@@ -18,7 +18,7 @@ on [MathSciNet](http://www.ams.org/mathscinet).
     Algorithm for Semigroups and Monoids', preprint;
     <http://arxiv.org/abs/2203.11148>
 1.  (with M. Anagnostopoulou-Merkouri and Z. Mesyan)  'Properties of Congruence
-    Lattices of Graph Inverse Semigroups', preprint;
+    Lattices of Graph Inverse Semigroups', submitted;
     <https://arxiv.org/abs/2108.08277>
 1.  (with J. East and J. Jonušas)  'Generating the monoid of 2×2 matrices over
     max-plus and min-plus semirings', preprint; <https://arxiv.org/abs/2009.10372>
