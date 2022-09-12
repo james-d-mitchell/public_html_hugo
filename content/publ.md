@@ -14,6 +14,8 @@ slow to show up. -->
 [A list of publications by J. D.  Mitchell](http://www.ams.org/mathscinet/search/publications.html?pg1=INDI&s1=691066)
 on [MathSciNet](http://www.ams.org/mathscinet).
 
+1.  (with R. Cirpons) 'Polynomial time multiplication and normal forms in free
+    bands', submitted; <http://arxiv.org/abs/XXXX.XX>
 1.  (with T. D. H. Coleman, F. L. Smith, and M. Tsalakou) 'The Todd-Coxeter
     Algorithm for Semigroups and Monoids', preprint;
     <http://arxiv.org/abs/2203.11148>
