@@ -15,10 +15,10 @@ slow to show up. -->
 on [MathSciNet](http://www.ams.org/mathscinet).
 
 1.  (with R. Cirpons) 'Polynomial time multiplication and normal forms in free
-    bands', submitted; <http://arxiv.org/abs/XXXX.XX>
+    bands', submitted; <https://arxiv.org/abs/2209.05334>
 1.  (with T. D. H. Coleman, F. L. Smith, and M. Tsalakou) 'The Todd-Coxeter
     Algorithm for Semigroups and Monoids', preprint;
-    <http://arxiv.org/abs/2203.11148>
+    <https://arxiv.org/abs/2203.11148>
 1.  (with M. Anagnostopoulou-Merkouri and Z. Mesyan)  'Properties of Congruence
     Lattices of Graph Inverse Semigroups', submitted;
     <https://arxiv.org/abs/2108.08277>
@@ -32,11 +32,11 @@ on [MathSciNet](http://www.ams.org/mathscinet).
 1.  (with P. J. Cameron, J. East, D. FitzGerald, L.  Pebody, and T.
     Quinn-Gregson) 'Minimum degrees of finite rectangular bands, null
     semigroups, and variants of full transformation semigroups', submitted;
-    <http://arxiv.org/abs/2110.09701>
+    <https://arxiv.org/abs/2110.09701>
 1.  (with F. Hivert, F. L. Smith, and W. A. Wilson) 'Minimal generating sets
     for matrix monoids', submitted;  <https://arxiv.org/abs/2012.10323>
 1.  (with M. Tsalakou)  'An explicit algorithm for normal forms in small
-    overlap monoids', submitted; <http://arxiv.org/abs/2105.12125>
+    overlap monoids', submitted; <https://arxiv.org/abs/2105.12125>
 1.  (with L. Elliott, Z. Mesyan, J. Jonušas, M. Morayne, and Y. H. Péresse)
     'Automatic continuity, unique Polish topologies, and Zariski topologies on
     monoids and clones', submitted; <https://arxiv.org/abs/1912.07029>
