@@ -14,6 +14,9 @@ slow to show up. -->
 [A list of publications by J. D.  Mitchell](http://www.ams.org/mathscinet/search/publications.html?pg1=INDI&s1=691066)
 on [MathSciNet](http://www.ams.org/mathscinet).
 
+1.  (with C. Clark, J. Jonušas, and A. Francis) 'An algebraic model for
+    inversion and deletion in bacterial genome rearrangement', submitted;
+    <https://arxiv.org/abs/2209.07963>
 1.  (with R. Cirpons) 'Polynomial time multiplication and normal forms in free
     bands', submitted; <https://arxiv.org/abs/2209.05334>
 1.  (with T. D. H. Coleman, F. L. Smith, and M. Tsalakou) 'The Todd-Coxeter
