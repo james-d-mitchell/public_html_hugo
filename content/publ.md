@@ -22,9 +22,6 @@ on [MathSciNet](http://www.ams.org/mathscinet).
 1.  (with T. D. H. Coleman, F. L. Smith, and M. Tsalakou) 'The Todd-Coxeter
     Algorithm for Semigroups and Monoids', preprint;
     <https://arxiv.org/abs/2203.11148>
-1.  (with M. Anagnostopoulou-Merkouri and Z. Mesyan)  'Properties of Congruence
-    Lattices of Graph Inverse Semigroups', submitted;
-    <https://arxiv.org/abs/2108.08277>
 1.  (with J. East and J. Jonušas)  'Generating the monoid of 2×2 matrices over
     max-plus and min-plus semirings', preprint; <https://arxiv.org/abs/2009.10372>
 1.  (with Z. Mesyan and Y. H. Péresse) 'Topological transformation
@@ -43,6 +40,9 @@ on [MathSciNet](http://www.ams.org/mathscinet).
 1.  (with L. Elliott, Z. Mesyan, J. Jonušas, M. Morayne, and Y. H. Péresse)
     'Automatic continuity, unique Polish topologies, and Zariski topologies on
     monoids and clones', submitted; <https://arxiv.org/abs/1912.07029>
+1.  (with M. Anagnostopoulou-Merkouri and Z. Mesyan)  'Properties of Congruence
+    Lattices of Graph Inverse Semigroups', to appear in *Internat. J. Algebra
+    Comput.*; <https://arxiv.org/abs/2108.08277>
 1.  (with J. East) 'Generating wreath products of symmetric and alternating
     groups', *New Zealand Journal of Mathematics*, **51** (2021), 85–93;
     <https://doi.org/10.53733/108> <https://arxiv.org/abs/2104.05378v1>
