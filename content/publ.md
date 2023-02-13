@@ -14,6 +14,9 @@ slow to show up. -->
 [A list of publications by J. D.  Mitchell](http://www.ams.org/mathscinet/search/publications.html?pg1=INDI&s1=691066)
 on [MathSciNet](http://www.ams.org/mathscinet).
 
+1.  (with M. Anagnostopoulou-Merkouri and M. Tsalakou)  'Computing the
+    congruences of a finite semigroup or monoid', submitted; 
+    <https://arxiv.org/abs/2302.06295>
 1.  (with C. Clark, J. Jonušas, and A. Francis) 'An algebraic model for
     inversion and deletion in bacterial genome rearrangement', submitted;
     <https://arxiv.org/abs/2209.07963>
