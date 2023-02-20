@@ -14,14 +14,15 @@ slow to show up. -->
 [A list of publications by J. D.  Mitchell](http://www.ams.org/mathscinet/search/publications.html?pg1=INDI&s1=691066)
 on [MathSciNet](http://www.ams.org/mathscinet).
 
+1.  (with S. Bardyla, L. Elliott, and Y. Péresse)  'Topological embeddings
+    into transformation monoids', submitted;
+    <http://arxiv.org/abs/2302.08988>
 1.  (with M. Anagnostopoulou-Merkouri and M. Tsalakou)  'Computing the
-    congruences of a finite semigroup or monoid', submitted; 
+    congruences of a finite semigroup or monoid', submitted;
     <https://arxiv.org/abs/2302.06295>
 1.  (with C. Clark, J. Jonušas, and A. Francis) 'An algebraic model for
     inversion and deletion in bacterial genome rearrangement', submitted;
     <https://arxiv.org/abs/2209.07963>
-1.  (with R. Cirpons) 'Polynomial time multiplication and normal forms in free
-    bands', submitted; <https://arxiv.org/abs/2209.05334>
 1.  (with T. D. H. Coleman, F. L. Smith, and M. Tsalakou) 'The Todd-Coxeter
     Algorithm for Semigroups and Monoids', preprint;
     <https://arxiv.org/abs/2203.11148>
@@ -43,6 +44,9 @@ on [MathSciNet](http://www.ams.org/mathscinet).
 1.  (with L. Elliott, Z. Mesyan, J. Jonušas, M. Morayne, and Y. H. Péresse)
     'Automatic continuity, unique Polish topologies, and Zariski topologies on
     monoids and clones', submitted; <https://arxiv.org/abs/1912.07029>
+1.  (with R. Cirpons) 'Polynomial time multiplication and normal forms in free
+    bands', to appear in *Theor. Comput. Sci.*;
+    <https://arxiv.org/abs/2209.05334>
 1.  (with M. Anagnostopoulou-Merkouri and Z. Mesyan)  'Properties of Congruence
     Lattices of Graph Inverse Semigroups', to appear in *Internat. J. Algebra
     Comput.*; <https://arxiv.org/abs/2108.08277>
