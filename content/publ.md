@@ -46,6 +46,7 @@ on [MathSciNet](http://www.ams.org/mathscinet).
     monoids and clones', submitted; <https://arxiv.org/abs/1912.07029>
 1.  (with R. Cirpons) 'Polynomial time multiplication and normal forms in free
     bands', to appear in *Theor. Comput. Sci.*;
+    <https://doi.org/10.1016/j.tcs.2023.113783>
     <https://arxiv.org/abs/2209.05334>
 1.  (with M. Anagnostopoulou-Merkouri and Z. Mesyan)  'Properties of Congruence
     Lattices of Graph Inverse Semigroups', to appear in *Internat. J. Algebra
