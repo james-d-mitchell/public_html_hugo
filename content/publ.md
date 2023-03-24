@@ -14,6 +14,8 @@ slow to show up. -->
 [A list of publications by J. D.  Mitchell](http://www.ams.org/mathscinet/search/publications.html?pg1=INDI&s1=691066)
 on [MathSciNet](http://www.ams.org/mathscinet).
 
+1.  (L. Elliott and A. Levine)  'Counting monogenic monoids and inverse
+    monoids', preprint <http://arxiv.org/abs/2303.12387>
 1.  (with S. Bardyla, L. Elliott, and Y. Péresse)  'Topological embeddings
     into transformation monoids', submitted;
     <http://arxiv.org/abs/2302.08988>
@@ -39,18 +41,19 @@ on [MathSciNet](http://www.ams.org/mathscinet).
     <https://arxiv.org/abs/2110.09701>
 1.  (with F. Hivert, F. L. Smith, and W. A. Wilson) 'Minimal generating sets
     for matrix monoids', submitted;  <https://arxiv.org/abs/2012.10323>
-1.  (with M. Tsalakou)  'An explicit algorithm for normal forms in small
-    overlap monoids', submitted; <https://arxiv.org/abs/2105.12125>
 1.  (with L. Elliott, Z. Mesyan, J. Jonušas, M. Morayne, and Y. H. Péresse)
     'Automatic continuity, unique Polish topologies, and Zariski topologies on
     monoids and clones', submitted; <https://arxiv.org/abs/1912.07029>
-1.  (with R. Cirpons) 'Polynomial time multiplication and normal forms in free
-    bands', to appear in *Theor. Comput. Sci.*;
-    <https://doi.org/10.1016/j.tcs.2023.113783>
-    <https://arxiv.org/abs/2209.05334>
+1.  (with M. Tsalakou)  'An explicit algorithm for normal forms in small
+    overlap monoids', to appear in *Journal of Algebra*;
+    <https://arxiv.org/abs/2105.12125>
 1.  (with M. Anagnostopoulou-Merkouri and Z. Mesyan)  'Properties of Congruence
     Lattices of Graph Inverse Semigroups', to appear in *Internat. J. Algebra
     Comput.*; <https://arxiv.org/abs/2108.08277>
+1.  (with R. Cirpons) 'Polynomial time multiplication and normal forms in free
+    bands', *Theor. Comput. Sci.* **953** (2023);
+    <https://doi.org/10.1016/j.tcs.2023.113783>
+    <https://arxiv.org/abs/2209.05334>
 1.  (with J. East) 'Generating wreath products of symmetric and alternating
     groups', *New Zealand Journal of Mathematics*, **51** (2021), 85–93;
     <https://doi.org/10.53733/108> <https://arxiv.org/abs/2104.05378v1>
