@@ -14,8 +14,6 @@ slow to show up. -->
 [A list of publications by J. D.  Mitchell](http://www.ams.org/mathscinet/search/publications.html?pg1=INDI&s1=691066)
 on [MathSciNet](http://www.ams.org/mathscinet).
 
-1.  (L. Elliott and A. Levine)  'Counting monogenic monoids and inverse
-    monoids', preprint <http://arxiv.org/abs/2303.12387>
 1.  (with S. Bardyla, L. Elliott, and Y. Péresse)  'Topological embeddings
     into transformation monoids', submitted;
     <http://arxiv.org/abs/2302.08988>
@@ -26,7 +24,7 @@ on [MathSciNet](http://www.ams.org/mathscinet).
     inversion and deletion in bacterial genome rearrangement', submitted;
     <https://arxiv.org/abs/2209.07963>
 1.  (with T. D. H. Coleman, F. L. Smith, and M. Tsalakou) 'The Todd-Coxeter
-    Algorithm for Semigroups and Monoids', preprint;
+    Algorithm for Semigroups and Monoids', submitted;
     <https://arxiv.org/abs/2203.11148>
 1.  (with J. East and J. Jonušas)  'Generating the monoid of 2×2 matrices over
     max-plus and min-plus semirings', preprint; <https://arxiv.org/abs/2009.10372>
@@ -44,8 +42,11 @@ on [MathSciNet](http://www.ams.org/mathscinet).
 1.  (with L. Elliott, Z. Mesyan, J. Jonušas, M. Morayne, and Y. H. Péresse)
     'Automatic continuity, unique Polish topologies, and Zariski topologies on
     monoids and clones', submitted; <https://arxiv.org/abs/1912.07029>
+1.  (L. Elliott and A. Levine)  'Counting monogenic monoids and inverse
+    monoids', to appear in *Comm. Algebra*, <http://arxiv.org/abs/2303.12387>
 1.  (with M. Tsalakou)  'An explicit algorithm for normal forms in small
     overlap monoids', to appear in *Journal of Algebra*;
+    <https://doi.org/10.1016/j.jalgebra.2023.04.019>
     <https://arxiv.org/abs/2105.12125>
 1.  (with M. Anagnostopoulou-Merkouri and Z. Mesyan)  'Properties of Congruence
     Lattices of Graph Inverse Semigroups', to appear in *Internat. J. Algebra
