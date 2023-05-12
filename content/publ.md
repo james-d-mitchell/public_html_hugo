@@ -41,7 +41,8 @@ on [MathSciNet](http://www.ams.org/mathscinet).
     for matrix monoids', submitted;  <https://arxiv.org/abs/2012.10323>
 1.  (with L. Elliott, Z. Mesyan, J. Jonušas, M. Morayne, and Y. H. Péresse)
     'Automatic continuity, unique Polish topologies, and Zariski topologies on
-    monoids and clones', submitted; <https://arxiv.org/abs/1912.07029>
+    monoids and clones', to appear in *Trans. Amer. Math. Soc.*;
+    <https://arxiv.org/abs/1912.07029>
 1.  (L. Elliott and A. Levine)  'Counting monogenic monoids and inverse
     monoids', to appear in *Comm. Algebra*, <http://arxiv.org/abs/2303.12387>
 1.  (with M. Tsalakou)  'An explicit algorithm for normal forms in small
