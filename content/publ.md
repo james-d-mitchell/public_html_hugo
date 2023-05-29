@@ -44,7 +44,9 @@ on [MathSciNet](http://www.ams.org/mathscinet).
     monoids and clones', to appear in *Trans. Amer. Math. Soc.*;
     <https://arxiv.org/abs/1912.07029>
 1.  (L. Elliott and A. Levine)  'Counting monogenic monoids and inverse
-    monoids', to appear in *Comm. Algebra*, <http://arxiv.org/abs/2303.12387>
+    monoids', to appear in *Comm. Algebra*,
+    <https://doi.org/10.1080/00927872.2023.2214821>
+    <http://arxiv.org/abs/2303.12387>;
 1.  (with M. Tsalakou)  'An explicit algorithm for normal forms in small
     overlap monoids', to appear in *Journal of Algebra*;
     <https://doi.org/10.1016/j.jalgebra.2023.04.019>
@@ -52,7 +54,7 @@ on [MathSciNet](http://www.ams.org/mathscinet).
 1.  (with M. Anagnostopoulou-Merkouri and Z. Mesyan)  'Properties of Congruence
     Lattices of Graph Inverse Semigroups', to appear in *Internat. J. Algebra
     Comput.*; <https://arxiv.org/abs/2108.08277>
-1.  (with R. Cirpons) 'Polynomial time multiplication and normal forms in free
+1.with R. Cirpons) 'Polynomial time multiplication and normal forms in free
     bands', *Theor. Comput. Sci.* **953** (2023);
     <https://doi.org/10.1016/j.tcs.2023.113783>
     <https://arxiv.org/abs/2209.05334>
