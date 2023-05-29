@@ -54,7 +54,7 @@ on [MathSciNet](http://www.ams.org/mathscinet).
 1.  (with M. Anagnostopoulou-Merkouri and Z. Mesyan)  'Properties of Congruence
     Lattices of Graph Inverse Semigroups', to appear in *Internat. J. Algebra
     Comput.*; <https://arxiv.org/abs/2108.08277>
-1.with R. Cirpons) 'Polynomial time multiplication and normal forms in free
+1.  (with R. Cirpons) 'Polynomial time multiplication and normal forms in free
     bands', *Theor. Comput. Sci.* **953** (2023);
     <https://doi.org/10.1016/j.tcs.2023.113783>
     <https://arxiv.org/abs/2209.05334>
