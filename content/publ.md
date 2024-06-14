@@ -13,8 +13,18 @@ See [Articles](#articles) and [Preprints](#preprints).
 
 # Articles
 
-*  (with M. Anagnostopoulou-Merkouri and M. Tsalakou)  'Computing the
-    congruences of a finite semigroup or monoid', submitted;
+*  (with Luna Elliott and Alex Levine), 'Computing congruences of finite inverse semigroups', 
+   submitted; <https://arxiv.org/abs/2406.09281>
+*  (with Luna Elliott and Alex Levine), '*E*-disjunctive inverse semigroups', submitted; 
+   <https://arxiv.org/abs/2405.19825>
+*  (with Serhii Bardyla, Luna Elliott, and Yann Péresse) 'Classifying the
+   Polish semigroup topologies on the symmetric inverse monoid', preprint;
+   <https://arxiv.org/abs/2405.20134>
+*  (with M. Brookes, J. East, C. Miller, N. Ruskuc) 
+   'Heights of one- and two-sided congruence lattices of semigroups',
+   submitted; <https://arxiv.org/abs/2310.08229>
+*  (with M. Anagnostopoulou-Merkouri, R. Cirpons, and M. Tsalakou)  'Computing the
+    congruences of a finitely presented semigroups and monoids', submitted;
     <https://arxiv.org/abs/2302.06295>
 *  (with F. Hivert, F. L. Smith, and W. A. Wilson) 'Minimal generating sets
     for matrix monoids', submitted;  <https://arxiv.org/abs/2012.10323>
@@ -24,10 +34,13 @@ See [Articles](#articles) and [Preprints](#preprints).
     <http://arxiv.org/abs/2302.08988>
 *  (with T. D. H. Coleman, F. L. Smith, and M. Tsalakou) 'The Todd-Coxeter
     Algorithm for Semigroups and Monoids', to appear in *Semigroup Forum*;
+    <https://doi.org/10.1007/s00233-024-10431-z>
     <https://arxiv.org/abs/2203.11148>
 *  (with M. Anagnostopoulou-Merkouri and Z. Mesyan)  'Properties of Congruence
-    Lattices of Graph Inverse Semigroups', to appear in *Internat. J. Algebra
-    Comput.*; <https://arxiv.org/abs/2108.08277>
+    Lattices of Graph Inverse Semigroups', *Internat. J. Algebra
+    Comput.*; **34** (2024) 371-396;
+    <https://doi.org/10.1142/S0218196724500139>
+    <https://arxiv.org/abs/2108.08277>
 *  (with P. J. Cameron, J. East, D. FitzGerald, L.  Pebody, and T.
     Quinn-Gregson) 'Minimum degrees of finite rectangular bands, null
     semigroups, and variants of full transformation semigroups', 
