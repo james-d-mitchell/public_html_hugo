@@ -13,6 +13,10 @@ See [Articles](#articles) and [Preprints](#preprints).
 
 # Articles
 
+* (with A. Abram, F. Hivert, J.-C. Novelli, and M. Tsalakou), 'Power quotients of plactic-like monoids',
+   preprint; <https://arxiv.org/abs/2406.16387>
+*  (with Murray T. Whyte), 'Short presentations for transformation monoids',
+   preprint; <https://arxiv.org/abs/2406.19294>
 *  (with Luna Elliott and Alex Levine), 'Computing congruences of finite inverse semigroups', 
    submitted; <https://arxiv.org/abs/2406.09281>
 *  (with Luna Elliott and Alex Levine), '*E*-disjunctive inverse semigroups', submitted; 
