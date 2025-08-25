@@ -10,7 +10,7 @@ This page contains some resources for the [Digraphs](https://digraphs.github.io/
 Summer 2025 in Koper, Slovenia](https://www.gapdays.de/gapdays2025-summer/).
 
 Here are the [slides (pdf)](../downloads/2025-08-Koper.pdf), and
-the worksheet [worksheet (pdf)](../downloads/worksheet).
+the worksheet [worksheet (pdf)](../downloads/worksheet.pdf).
 
 Some data for the problems on the worksheet can be found below.
 
