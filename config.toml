@@ -36,8 +36,3 @@ weight = 2
 name = "Software"
 url = "/soft"
 weight = 3
-
-[[menu.main]]
-name = "Posts"
-url = "/posts"
-weight = 4
