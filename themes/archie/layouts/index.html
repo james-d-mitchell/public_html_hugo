@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  {{ partial "header.html" . }}
+  <body>
+    <div class="content">
+      {{ partial "head.html" . }}
+
+      <main>
+        <article>
+          <div class="title">
+            <section class="body">
+              <h1>{{.Title}}</h1>
+              {{.Content}}
+            </section>
+        </article>
+        <div class="meta"> Last modified: {{ dateFormat "Jan 2, 2006" .Lastmod }} </div>
+          </div>
+      </main>			{{ partial "footer.html" . }}
+    </div>
+
+  </body>
+</html>
