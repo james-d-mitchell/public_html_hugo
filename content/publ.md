@@ -16,48 +16,53 @@ See [Articles](#articles) and [Preprints](#preprints).
 - (with A. Abram, F. Hivert, J.-C. Novelli, and M. Tsalakou), 'Power quotients
   of plactic-like monoids', preprint; <https://arxiv.org/abs/2406.16387>
 - (with S. Bardyla, L. Elliott, and Y. Péresse), 'A note on intrinsic
-  topologies of groups', submitted; <https://arxiv.org/pdf/2506.11500>
-- (with R. Cirpons and J. East) 'Transformation representations of diagram
-  monoids', submitted; <https://arxiv.org/abs/2411.14693>
+  topologies of groups', submitted; <https://doi.org/10.48550/arXiv.2506.11500>
 - (with J. Edwards, and P. Ragavan) 'Counting finite semirings'; submitted
   <https://arxiv.org/abs/2507.03709>
 - (with Tom Aird and Murray T. Whyte), 'Short presentations for transformation monoids',
   submitted; <https://arxiv.org/abs/2406.19294>
 - (with Luna Elliott and Alex Levine), 'Computing congruences of finite inverse semigroups',
   submitted; <https://arxiv.org/abs/2406.09281>
+- (with R. Cirpons and J. East) 'Transformation representations of diagram
+  monoids', _International Mathematics Research Notices_, Volume 2026, Issue 6,
+  March 2026, rnag041 <https://doi.org/10.1093/imrn/rnag041>;
+  <https://arxiv.org/abs/2411.14693>
 - (with R. Cirpons, F. Hivert, A. Mahboubi, G. Melquiond, and F. L. Smith)
-  'Certifying the decidability of the word problem in monoids at large', to
-  appear _Proceedings of the Certified Programs and Proofs conference_ (2026).
-- (with R. Cirpons and F. L. Smith) 'Off with the head: termination provers and the
-  word problem for 1-relation monoids', _Proceedings of the 20th International
-  Workshop on Termination_ (2025),
-  [WST2025 paper 16](https://www.imn.htwk-leipzig.de/WST2025/proceedings/WST2025_paper_16.pdf)
+  'Certifying the decidability of the word problem in monoids at large', 
+  _Proceedings of the Certified Programs and Proofs conference (CPP '26)_ (2026) 128-142
+  <https://doi.org/10.1145/3779031.3779101>
 - (with Serhii Bardyla, Luna Elliott, and Yann Péresse) 'Classifying the Polish
-  semigroup topologies on the symmetric inverse monoid', to appear in _Proc.
-  Edinburgh Math. Soc._;
+  semigroup topologies on the symmetric inverse monoid', _Proc.
+  Edinburgh Math. Soc._ (2026);
+  <https://doi.org/10.1017/S0013091525101302>
   <https://arxiv.org/abs/2405.20134>
-- (with M. Anagnostopoulou-Merkouri, R. Cirpons, and M. Tsalakou) 'Computing
-  finite index congruences of finitely presented semigroups and monoids',
-  to appear in _Mathematics of Computation_;
-  <https://doi.org/10.1090/mcom/4136>
-  <https://arxiv.org/abs/2302.06295>
 - (with I. Dolinka and D. G. FitzGerald) 'Semirigidity and the enumeration of
-  nilpotent semigroups of index three', to appear in _Semigroup Forum_;
+  nilpotent semigroups of index three', _Semigroup Forum_ **112** (2026) 24-47
+  <https://doi.org/10.1007/s00233-025-10608-0>
   <https://arxiv.org/abs/2411.00466>
 - (with Luna Elliott and Alex Levine), '_E_-disjunctive inverse semigroups',
   _Journal of Algebra_, **687** (2026) 292-344;
   <https://doi.org/10.1016/j.jalgebra.2025.08.041>
   <https://arxiv.org/abs/2405.19825>
+- (with M. Anagnostopoulou-Merkouri, R. Cirpons, and M. Tsalakou) 'Computing
+  finite index congruences of finitely presented semigroups and monoids',
+  _Mathematics of Computation_ (2025);
+  <https://doi.org/10.1090/mcom/4136>
+  <https://arxiv.org/abs/2302.06295>
+- (with R. Cirpons and F. L. Smith) 'Off with the head: termination provers and the
+  word problem for 1-relation monoids', _Proceedings of the 20th International
+  Workshop on Termination_ (2025),
+  [WST2025 paper 16](https://www.imn.htwk-leipzig.de/WST2025/proceedings/WST2025_paper_16.pdf)
+- (with F. Hivert, F. L. Smith, and W. A. Wilson) 'Minimal generating sets
+  for matrix monoids', _Journal of Symbolic Computation_ **129** (2025) 102415
+  <https://doi.org/10.1016/j.jsc.2024.102415>
+  <https://arxiv.org/abs/2012.10323>
 - (with Mukherjee, S. and Vojtěchovský, P.) 'Minimal representatives of
   endofunctions' _Semigroup Forum_ **109** (2024) 626–638;
   <https://doi.org/10.1007/s00233-024-10472-4>
-- (with F. Hivert, F. L. Smith, and W. A. Wilson) 'Minimal generating sets
-  for matrix monoids', _Journal of Symbolic Computation_ **129** (2025)
-  <https://doi.org/10.1016/j.jsc.2024.102415>
-  <https://arxiv.org/abs/2012.10323>
 - (with M. Brookes, J. East, C. Miller, N. Ruskuc)
   'Heights of one- and two-sided congruence lattices of semigroups',
-  _Pacific Journal of Mathematics_ _333_ (2024) 17-57;
+  _Pacific Journal of Mathematics_ **333** (2024) 17-57;
   <https://doi.org/10.2140/pjm.2024.333.17>
   <https://arxiv.org/abs/2310.08229>
 - (with S. Bardyla, L. Elliott, and Y. Péresse) 'Topological embeddings
